@@ -278,7 +278,7 @@ namespace ConsoleProjectTest
             int weapon;
             bool stringCheck;
             bool weaponCheck;
-            ConsoleKey key;
+            
             player.weaponItem = new WeaponItem();
 
             Console.Clear();
